@@ -18,3 +18,9 @@
 </a>
 
 ---
+
+## Homework 3 : https://youtu.be/-1ekeLzKzYg
+<a href="https://youtu.be/-1ekeLzKzYg" target="_blank">
+  <img src="https://github.com/user-attachments/assets/d01d28f7-fe1b-497f-ae74-312888c82900" 
+       alt="Homework 3">
+</a>
