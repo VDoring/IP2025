@@ -40,3 +40,19 @@ pdf 62p? Convolution 개념.
 4 2 1
 
 여기서 오른쪽 아래 대각선 방향으로(3+3+1) 더한다음(=7), 반대쪽 대각선 방향의 두 숫자를 빼면(-7하고 -4) 된다. 답은 -4가 된다.
+
+==========================================================
+
+1.4.2 Image Thresholding p.52 ###
+
+Homework 3 
+
+convolution >
+https://youtu.be/mQDHAn1DrHs?si=OmDxTPy315Rt9Sw6
+
+median >
+https://en.wikipedia.org/wiki/Median_filter
+
+Morphological operations >
+https://youtu.be/emp3SKfEDbA?si=of9yPn8dkuqzocXz
+https://www.cis.rit.edu/class/simg782/homework/hw3/hw3_2005.pdf
