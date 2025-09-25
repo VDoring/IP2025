@@ -29,6 +29,7 @@ dst = cv2.warpPerspective(img,M,(600,300))
 pdf 71p median 개념.
 일정 영역(5x5 등)의 색상을 정렬(소팅)해서 중앙값을 사용.
 평균을 구하는 것, 소팅 후 중앙값 구함. 3x3에서 주변의 값을 가져옴
+'소금-후추 잡음(salt and pepper noise)'처럼 이미지에 갑자기 나타나는 밝거나 어두운 점들을 효과적으로 제거하는 데 뛰어난 성능을 보입니다.
 # img 이미지를 55 크기의 중간값 필터로 처리해서 노이즈를 줄인 결과를 median 에 저장
 median = cv2.medianBlur(img,5)
 
@@ -56,3 +57,4 @@ https://en.wikipedia.org/wiki/Median_filter
 Morphological operations >
 https://youtu.be/emp3SKfEDbA?si=of9yPn8dkuqzocXz
 https://www.cis.rit.edu/class/simg782/homework/hw3/hw3_2005.pdf
+
