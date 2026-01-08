@@ -11,9 +11,9 @@
 
 ---
 
-## Homework 2 : https://youtu.be/JtuoEfSWSto
-<a href="https://youtu.be/JtuoEfSWSto" target="_blank">
-  <img src="https://github.com/user-attachments/assets/1ae39be4-21d6-4f35-95d8-ce7611d1bd5f" 
+## Homework 2 : https://youtu.be/aBxD3423fp
+<a href="https://github.com/VDoring" target="_blank">
+  <img src="https://github.com/VDoring" 
        alt="Homework 2">
 </a>
 
